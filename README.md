@@ -3,8 +3,6 @@ Please cite the following paper if you are using this code.
 Simple Citation
 ---------------
 M. A. Ganaie, M. Sajid, A. K. Malik and M. Tanveer, "Graph Embedded Intuitionistic Fuzzy Random Vector Functional Link Neural Network for Class Imbalance Learning," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2024.3353531.
-keywords: {Germanium;Training;Machine learning;Data models;Alzheimer's disease;Predictive models;Noise measurement;Class imbalance (CI) learning;graph embedding (GE);intuitionistic fuzzy (IF);random vector functional link (RVFL) network},
-
 
 Bibtex
 ------
