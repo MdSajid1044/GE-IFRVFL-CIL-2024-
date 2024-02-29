@@ -34,7 +34,7 @@ Opt_para.C=10^4; //Regularization Parameter
 Opt_para.kerfPara.pars=0.125; //Kernel Parameter
 Opt_para.lambda=10^-3; //Lambda
 
-Description of Files:
+Description of Files
 ---------------------
 GE_IFRVFL_CIL_main.m: This is the main file to run selected algorithms on datasets. In the path variable specificy the path to the folder containing the codes and datasets on which you wish to run the algorithm. 
 
