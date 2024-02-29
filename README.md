@@ -20,7 +20,8 @@ Bibtex
   keywords={Germanium;Training;Machine learning;Data models;Alzheimer's disease;Predictive models;Noise measurement;Class imbalance (CI) learning;graph embedding (GE);intuitionistic fuzzy (IF);random vector functional link (RVFL) network},
   doi={10.1109/TNNLS.2024.3353531}}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Experimental Setup
+------------------
 
 The experiments are executed on a computing system possessing MATLAB R2017b software, an Intel(R) Xeon(R) CPU E5-2697 v4 processor operating at 2.30 GHz with 128-GB Random Access Memory (RAM), and a Windows-10 operating platform.
 
@@ -33,7 +34,7 @@ Opt_para.C=10^4; //Regularization Parameter
 Opt_para.kerfPara.pars=0.125; //Kernel Parameter
 Opt_para.lambda=10^-3; //Lambda
 
-Description of files:
+Description of Files:
 ---------------------
 GE_IFRVFL_CIL_main.m: This is the main file to run selected algorithms on datasets. In the path variable specificy the path to the folder containing the codes and datasets on which you wish to run the algorithm. 
 
