@@ -20,8 +20,8 @@ Bibtex
   keywords={Germanium;Training;Machine learning;Data models;Alzheimer's disease;Predictive models;Noise measurement;Class imbalance (CI) learning;graph embedding (GE);intuitionistic fuzzy (IF);random vector functional link (RVFL) network},
   doi={10.1109/TNNLS.2024.3353531}}
 
-Experimental Setup
-------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 The experiments are executed on a computing system possessing MATLAB R2017b software, an Intel(R) Xeon(R) CPU E5-2697 v4 processor operating at 2.30 GHz with 128-GB Random Access Memory (RAM), and a Windows-10 operating platform.
 
 We have put a demo of the “GE_IFRVFL_CIL” model with the “abalone9-18” dataset 
